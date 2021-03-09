@@ -1,3 +1,8 @@
+# Processed Data Directories
+**/*processed___*
+**/ww=*
+results
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
